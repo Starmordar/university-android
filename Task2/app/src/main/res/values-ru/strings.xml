@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Задание 2</string>
+    <string name="question_edit_text">Введите вопрос</string>
+    <string name="answer_edit_text">Введите ответ</string>
+    <string name="submit_btn">Ввести</string>
+</resources>
