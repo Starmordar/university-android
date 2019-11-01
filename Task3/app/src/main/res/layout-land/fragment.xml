@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/EditTextFragment"
+        android:layout_width="match_parent"
+        android:layout_height="76dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="@string/question_edit_text"
+        android:text="" />
+
+    <Button
+        style="@style/danger_btn"
+        android:id="@+id/ButtonFragment"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="26dp"
+        android:layout_gravity="center"
+        android:text="@string/submit_btn" />
+        
+</LinearLayout>
