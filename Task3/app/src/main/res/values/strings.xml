@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Task3</string>
+    <string name="question_edit_text">Enter question</string>
+    <string name="answer_edit_text">Enter answer</string>
+    <string name="submit_btn">Submit</string>
+    <string name="close_app">Close app</string>
+    <string name="close_ok">Yes</string>
+    <string name="close_cancel">No</string>
+    <string name="answer">Answer</string>
+    <string name="question">Question</string>
+    <string name="dialog">dialog</string>
+    <string name="exit_message">Close_application</string>
+</resources>

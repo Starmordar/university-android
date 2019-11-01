@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Задание 3</string>
+    <string name="question_edit_text">Введите вопрос</string>
+    <string name="answer_edit_text">Введите ответ</string>
+    <string name="submit_btn">Ввести</string>
+    <string name="close_app">Закрыть приложение</string>
+    <string name="close_ok">Да</string>
+    <string name="close_cancel">Нет</string>
+    <string name="answer">Ответ</string>
+    <string name="question">Вопрос</string>
+    <string name="dialog">Диалог</string>
+    <string name="exit_message">Закрыть</string>
+</resources>
